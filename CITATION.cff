@@ -15,10 +15,10 @@ preferred-citation:
   type: article
   title: "Multimodal Deep Learning for Online Gambling Promotion Detection on Indonesian Social Media"
   authors:
-    - family-names: Syukron
-      given-names: Muhamad
     - family-names: Ekaputra
       given-names: Danish Rafie
+    - family-names: Syukron
+      given-names: Muhamad
   journal: "Jurnal Statistika dan Komputasi"
   volume: 5
   issue: 1
