@@ -2,7 +2,7 @@
 
 Official code for the paper **"Multimodal Deep Learning for Online Gambling Promotion Detection on Indonesian Social Media"** by Danish Rafie Ekaputra and Muhamad Syukron (Department of Statistics, Institut Teknologi Sepuluh Nopember).
 
-[Dataset (Hugging Face)](https://huggingface.co/datasets/0xRafie/indonesian-gambling-multimodal-dataset) · [Dataset (GitHub)](https://github.com/0xRafie/indonesian-gambling-multimodal-dataset)
+[Dataset (Hugging Face)](https://huggingface.co/datasets/0xRafie/indonesian-gambling-multimodal-dataset)
 
 This code is for research on **detecting and filtering** gambling promotions for content moderation. It does not promote gambling.
 
@@ -171,7 +171,7 @@ GD_DATA_DIR=data pytest -q              # also checks that the split regenerates
 
 - **Code**: [MIT](LICENSE).
 - **Pre-trained heads** (release assets): [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/), for non-commercial research only, because they were trained on third-party social-media content.
-- **Dataset**: has its own terms; see the [dataset repository](https://github.com/0xRafie/indonesian-gambling-multimodal-dataset). The images and captions belong to their original owners.
+- **Dataset**: has its own terms; see the [dataset card](https://huggingface.co/datasets/0xRafie/indonesian-gambling-multimodal-dataset). The images and captions belong to their original owners.
 
 ## Acknowledgements
 
