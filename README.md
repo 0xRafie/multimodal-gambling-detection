@@ -1,6 +1,6 @@
 # Multimodal Deep Learning for Online Gambling Promotion Detection on Indonesian Social Media
 
-Official code for the paper **["Multimodal Deep Learning for Online Gambling Promotion Detection on Indonesian Social Media"](https://doi.org/10.32665/statkom.v5i1.6412)** by Danish Rafie Ekaputra and Muhamad Syukron (Department of Statistics, Institut Teknologi Sepuluh Nopember), published in *Jurnal Statistika dan Komputasi* 5(1), 41–60, 2026.
+Official code for the paper **["Multimodal Deep Learning for Online Gambling Promotion Detection on Indonesian Social Media"](https://doi.org/10.32665/statkom.v5i1.6412)** by Danish Rafie Ekaputra and Muhamad Syukron (Data Science Program, Department of Statistics, Institut Teknologi Sepuluh Nopember), published in *Jurnal Statistika dan Komputasi* 5(1), 41–60, 2026.
 
 [Paper](https://doi.org/10.32665/statkom.v5i1.6412) · [Dataset (Hugging Face)](https://huggingface.co/datasets/0xRafie/indonesian-gambling-multimodal-dataset)
 
