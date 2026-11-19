@@ -1,0 +1,11 @@
+# Tested with Python 3.12. transformers is pinned below v5 because v5 changed the return
+# type of get_image_features(); DINOv3 needs >= 4.56.
+torch>=2.2
+transformers>=4.56,<5
+huggingface_hub>=0.34
+numpy
+pandas
+scikit-learn
+pillow
+tqdm
+pytest

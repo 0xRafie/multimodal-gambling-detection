@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code or the dataset, please cite the paper."
+title: "Multimodal Deep Learning for Online Gambling Promotion Detection on Indonesian Social Media"
+authors:
+  - family-names: Ekaputra
+    given-names: Danish Rafie
+    affiliation: "Department of Statistics, Institut Teknologi Sepuluh Nopember"
+  - family-names: Syukron
+    given-names: Muhamad
+    affiliation: "Department of Statistics, Institut Teknologi Sepuluh Nopember"
+license: MIT
+repository-code: "https://github.com/0xRafie/multimodal-gambling-detection"
+type: software
